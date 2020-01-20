@@ -1,2 +1,1 @@
-# git.github
-this is for learning purpouse
+This belongs to suket
