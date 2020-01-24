@@ -1,0 +1,875 @@
+//*[@class="sims-HRuler-rightIndent draggable ui-draggable"]//*[contains(@class,"borderbox borderboxLeftMiddle open")]
+simsLBContainer simsSelectableNone defaultFont dropDownMode sims-control sims-SimsListBox
+//*[@title="Increase Font Size (Ctrl+>)"]
+//*[contains(@class,'whiteCursor')]//*[contains(@class,'itemTextDiv')]//*[contains(@class,'btntextSpan') and text()="Mark "]//*[contains(@class,"icon-binder")]
+//*[contains(@class,"class="menuItem menuItem_13 icon filemenu-manipulator"")]
+//*[contains(@class,'lineAndParagraphSpacing')]//*[contains(@class,'combobox-wrapper') and text()="Breaks"]//*[@id="fileMenuId"]/ul[1]/li[1]
+Increase Font Size (Ctrl+>)
+//*[@id="header"]//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[1]/span[1]/span[3]
+//*[@id="ribbon-tab-Layout"]/li[1]/span/span[1]/span/span[5]/span[1]/div[1]/div[2]/div/div[2]/div[1]/div[1]/div[1]
+//*[@id="ribbon-tab-Layout"]/li[1]/span/span[1]/span/span[5]/span[1]/div[1]/div[2]/div/div[2]/div[1]/div[1]/div[1]/span
+//*[@id="CM_Word-InsertSymbolDialog_menu"]/li[2]/span[2]/b
+//*[@id="CM_Word-InsertSymbolDialog_menu"]/li[2]
+//*[@id="4-ButtonInsert"]/div[2]
+class="menuItemText unselectable"
+//*[@class='MsoNormal' and text() ="Scholarships help pave the way for many students who might otherwise have not been able to afford the high costs of attending a university. In addition to providing financial assistance, winning a scholarship may open the door to colleges and universities that applicants hadn't previously considered and may even create a powerful networking tool for recipients. "]
+//*[@id="statusBarZoomValue"]/div/div[1]/ul/li[1]
+//*[@class="spinInput" and type="text"]
+menuItem menuItem_13 icon filemenu-manipulator//*[@id="40-SpinZoomPercent"]/div/input
+/html/body/div[1]/div[2]/div[1]/div/div/div/div[18]/ul/li[6]/span/span[1]/span/span/span/span
+//*[@id="childBlock"]//*[@class="simsLBScrollContainer simsSelectableNone"]
+//*[@class="simsDDArrow"]//*[@id="arrow"]
+//*[@id="arrow"]
+//*[@id="fileMenuId"]/ul[1]/li[1]
+//*[@id="statusBarZoomValue"]
+//*[contains(@class,"exportSaveAsButton accessible")]//*[contains(@class,"image3")]//*[contains(@class,"publish-as-pdf-dialog") and contains(@style,'background-position: -121px -191px;')]/li[1]
+//*[contains(text(), "Save")]//ancestor::*[@class='titlebar-control']
+//*[@class='titlebar-control']//ancestor::*[contains(text(), "Save")]
+
+o//*[contains(text(), "Save")]//ancestor::*[@class='titlebar-control']
+ffice-control ctrl-minimalbutton accessible titlebar-control
+//*[@id="fileMenuId"]/ul[1]/li[1]/div[1]
+//*[contains(@class,'section-launcher') and text()="Customize the"] office-hover-default accessible
+
+nd text() ='Proofing']//ancestor::*[contains(@class,'combo-value-part')]//*[contains(@class,'image-list-item')]//ancestor::[@class='image-selector-ul']//ancestor::[@class='image-button']
+
+image-button sims-control sims-ImageDropDown recolor-presets-dropdown
+combo-value-part control-label
+
+combo-value-part control-label
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[1]/span[1]/span[2]/div[1]/div[1]/span
+
+//[@class='itemTextPre' and text()='Centered']//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[1]/span[1]/span[2]/div[1]/div[1]/span/div
+Orange, Accent color 6 Light
+tab-header tab-header-home accessible
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[1]/span[1]/span[2]/div[1]/div[2]/div/div[5]/div[1]
+//*[@title="Orange, Accent color 6 Light"]
+//*[contains(@title,'color 6')]//*[contains(@class,'icon-wrapper')]
+icon-wrapper office-hover-default
+
+//*[@id="ribbon-tab-Picture Tools Format"]/li[1]/span/span[1]/span/span[4]/span[1]/div[1]/div[2]/div/div[1]/div[6]/div[24]
+
+simsDropdown sims-control sims-DropDown leftInputControl alignmentDropDown
+..	
+
+//ancestor::*[@class='ribbon-SK' and text()='PG']//descendant::*[@class='btntextSpan' and text()='OK']//*[contains(@class,'wordMiniToolBar')]//parent::*[contains(@class,'alignmentDropDown')]
+combobox-dropdown dropdown-open
+
+//*[@id="ribbon-tab-container-layout"]//*[@class='ParagraphDialog' and text()='Automatic']//parent::*[contains(@class,'section-launcher')]
+
+//*[contains(@class,'ribbon-section')]//*[@class='button-label' and text()='Center']//ancestor::*[contains(@class,'office-control')]
+office-control ctrl-minimaltogglebutton align-center homeTabAlignCenter accessible
+
+
+//*[contains(@class,'ParagraphDialog')]//*[@class='btntextSpan' and text()='OK']
+
+dropdown-button office-hover-default
+
+//*[@class='ParagraphDialog']//*[@class='control-label' and text()='Link']
+
+combo-value-part control-label
+
+
+//*[@class='itemTextPre' and text()='16']
+
+//*[contains(@class,'alignmentDropDown')]//*[contains(@class,'tab-header-home')]
+simsDDArrow
+section-footer
+
+//**[@class='ribbon-SK' and text()='PG']
+section-footer
+section-launcher office-hover-default accessible
+//*[@id="ribbonmaindiv"]/ul
+height: 40px; width: 40px;
+//*[contains(@class,'icon-binder') and style ="height: 40px; width: 40px;"]
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[2]/span/span[6]/div/div[2]/div/div[2]/div[8]/div/span
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[2]/span/span[6]/div/div[2]/div/div[2]/div[8]/div
+xpath;//*[contains(@class, "wordMiniToolBar")]//*[contains(@class, "bullet")]//*[contains(@class, "dropdown-open")]//*[contains(@class, "dropdown-items-wrapper items-default")]/div [2]/div  [8]/div
+//*[@id="CM_ribbon"]
+//*[@id="CM_ribbon"]/li[4]   //*[@id="SIMArea"]/div[1]
+xpath;//*[contains(@class, "wordMiniToolBar")]//*[contains(@class, "bullet")]//*[contains(@class, "dropdown-open")]//*[contains(@class, "dropdown-items-wrapper items-default")]/div[2]/div[8]/div
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[2]/span/span[6]/div/div[2]/div/div[2]/div[8]/div
+//*[@id="zoomOut"]
+//*[@id="docAreaZoomer"]
+//*[contains(@class,'MsoNormal hideFormattingMarks bullet')]
+//*[@id="CM_ribbon"]/li[4]/span[2]/span
+MsoNormal hideFormattingMarks bullet
+//*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/ul[1]
+Demonstrate.knowledge.of.shark.habitation,.anatomy,.and.behavior.¶
+//*[contains(@class, "itemTextPre") and text()="(none)"]
+//*[@id="arrow"]
+//*[@id="Word-ParagraphDialog-9"]//*[@id="arrow"]
+//*[@id="startPosition"]/span
+//*[@id="pageBinderWrapper"]//*[@id="sl5"]
+//*[@id="Volume3-DocumentArea"]
+//*[@id="ribbonmaindiv"]/div[1]/span[1]/span[2]
+//*[@id="ribbonmaindiv"]/div[1]/span[1]/span[2]/span/span
+//*[@id="9"]/div/button[5]
+//*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/ol//*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/ol/b/li[5]
+//*[@id="5"]/div[1]
+
+MsoNormal hideFormattingMarks bullet5
+
+//*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/ol/b/li[5]
+
+
+//*[@id="7-CreatePDFButton"]
+The·?exact·?requirements·?vary
+tab-header-layout
+
+
+class="tab-header tab-header-contextual tab-header-mytab accessible"
+tab-header tab-header-contextual tab-header-tabletoolslayout accessible
+
+//*[contains(text(),"To: Karen Blythe")]//ancestor::*[@id="CM_HeaderContextMenu"]
+//*[@id="ribbon-tab-Header & Footer Tools Design"]/li[1]/span/span[1]/span/span/span[2]/div[1]/div[1]/div/div[2]
+//*[@id="Word-LayoutDialog-LyDlg49"]
+//*[@id="tab-header-layout"]
+//*[@id="arrow"]
+//*[@id="14-1"]//*[@id="arrow"]//*[@id="para2"]//*[@id="cancelPara"]
+//*[@id="ribbon-tab-Layout"]//*[contains(@class,'header') and text()="Layout Options"]
+//*[@id="pageBinderWrapper"]/div[1]/div/div[2]/div[3]/div/p[3]
+//*[@id="pageBinderWrapper"]/div[1]/div/div[2]/div[3]/div/p[3]/div/div[10]
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[1]/span[1]/span[3]
+//*[@id="ribbon-tab-Picture Tools Format"]//*[contains(text(),'Wrap Text')]
+
+//*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[2]/span/span[6]/div/div[2]/div/div[2]/div[8]/div/span
+//*[@id="ribbon-tab-Layout"]/li[3]/span/span[1]/span/span[2]/div[1]
+xpath;//*[contains(@class, "callout")]//*[contains(@class, "bullets")]//*[contains(@class, "dropdown-button")] 
+//*[@id="ribbon-tab-Picture Tools Format"]/li[4]/span/span[1]/span/span[1]/span[2]/div[1]/div[1]/div/div[2]
+
+
+//*[contains(@class, 'title-tb')]//*[contains(@class,'dropdown-item-desc') and text()="facets"]
+//*[text()="facets "]
+
+cortana-list-item ct-top-search ct-search-item-apps list-item-selected keyboard-focus
+
+//*[contains(@class, "ct-top-search")] 
+
+templateItemText unselectable
+//*[@id="item-0-contextmenu"]
+//*[contains(@class,'itemTxt') and text()="EXPANDING THE FACILITY"]
+menuLeftPaneListText unselectable
+submenu-item browse-special accessible filemenu-manipulator
+
+menuItemText unselectable
+//*[contains(@class,'btntextSpan') and text()="OK"]
+change-filetype-item absolute-pos richTextFormat accessible filemenu-manipulator selected-file-type hovered
+
+//*[@id="Word-CreateSourceDialogbiblioFields"]/div[3]/div/div[4]/input[1]
+sims-control sims-TextBox title-tb absl
+journalDiv
+//*[@id="TableToolBar"]//*[contains(@class, 'items-scrollable')]//*[@title="Drop Shadow Rectangle"]//*[contains(@class, 'icon-wrapper')]
+sims-control sims-TextBox journal-name-tb absl
+icon-wrapper office-hover-default
+
+
+change-filetype-item absolute-pos richTextFormat accessible filemenu-manipulator
+
+
+class="office-ccombobox-wrapper hovered-frameontrol ctrl-splitbuttonnewhorizontal minimal-control bullets docarea_bullets"
+combobox-wrapper hovered-frame
+wordMiniToolBar tableToolBar word ribbon mt-kb-util show without-context-menu
+//*[@id="TableToolBar"]//*[contains(@class, 'docarea_bullets')]
+
+ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se
+
+
+.//span[@class='office-control ctrl-splitbuttonnewhorizontal accessible']/div[@class='combobox-wrapper hovered-frame']/div[@class='combobox']/span[@class='dropdown-button office-hover-default']
+dropdown-item-accesskeyChar
+
+//*[@id="title"]/input
+
+//*[@id="8_cm"]/div/div[1]/div[2]
+//*[@id="8_cm"]/div/div[1]/div[2]
+
+simsDDTitle titleBarEnabled unselectable
+//*[@id="titletext"]//*[contains(@class, 'sims-Button button3')]
+//*[@id="title"]
+simsDropdown sims-control sims-DropDown replace-dropdown1
+//*[@id="8_cm"]/div/div[1]/div[2]
+sims-button sims-control sims-Button button3 noFocus
+CloseImage
+//*[contains(@class, 'wordMiniToolBar')]//*[contains(@class, 'font-size')]//*[contains(@class, 'dropdown-button')]
+wordMiniToolBar textToolBar word ribbon ribbonv16 ribbonv19 mt-kb-util wordMiniToolBar-click show
+office-control ctrl-comboboxtext font-size accessible
+
+//*[contains(@class, 'control-group')]//*[contains(@class, 'icon-wrapper office-arrow')]
+office-control ctrl-splitbuttonnewhorizontal minimal-control docarea-font-color docarea_font_color
+
+dropdown-button office-hover-default
+
+//*[@id="headings-list"]/li[2]/div[2]
+//*[contains(@class, 'qat-quick-print')]//*[contains(@class,'close-dropdown-pane-li') and text()="Close"]
+
+office-control ctrl-minimalbutton qat-quick-print titlebar_quick_print accessible titlebar-control
+
+SIMS wordCM context-menu-list context-menu-root
+
+//*[contains(@class, 'wordMiniToolBar')]//*[contains(@class, 'font-size')]//*[contains(@class, 'dropdown-button')]
+//*[@id="FCursor"]
+compDiv ParagraphDialog SIMS-ParaDlg
+dropdown-items-wrapper items-imagearea
+//*[@id="CM_cm0013"]
+combo-value-part control-label
+
+//*[@id="mini-toolbar-heading1"]
+
+//*[@id="ribbon-tab-References"]/li[4]/span/span[1]/span/span[1]/div[1]/div[2]/div/div[2]/div[1]
+//*[@id="risk"]
+//*[@id="Word-StylePane"]/div/div[4]/div/div[4]/div/div[2]
+//*[@id="Word-StylePane"]/div/div[4]/div/div[4]
+item index-2 Control_Index_4
+arrowDropdown
+//*[@id="ribbon-tab-Layout"]//*[contains(@class, 'Control_Index_5')]//*[contains(@id, "RecolorPresets_dropDownSelector")]
+
+image-selector sims-control sims-ImageSelector image-selector-child-control-off
+RecolorPresets_dropDownSelector_4
+
+
+Format Painter
+simsLBContainer simsSelectableNone defaultFont listBoxMode sims-control sims-SimsListBox absolute-pos list-left-qat-Items
+
+
+section-launcher
+//*[@id="ribbon-tab-Layout"]/li[2]/span
+//*[@id="ribbon-tab-Layout"]/li[1]
+//*[@id="ribbon-tab-Layout"]/li[2]//*[contains(@class, 'section-launcher')]
+office-control ctrl-dropdownbuttonhorizontal minimal-control lineAndParagraphSpacing accessible
+
+
+
+
+//*[contains(@id, "RecolorPresets_dropDownSelector")]//ancestor::*[contains(@class,'office-control')]
+office-control ctrl-minimaltogglebutton align-center homeTabAlignCenter accessible
+
+
+
+dropdown-item-accesskeyChar
+pply Styles...
+//*[contains(@text,'pply Styles...')]
+<li class="close-dropdown-pane-li" tabindex="0"><u>M</u>ove</li>
+//*[@id="wrapperdiv"]/div/header/div/div[2]
+ApplyStylesDialog 
+//*[contains(@class, 'office-hover-default button-binder minimal-button')]//*[contains(@class, 'office-control ctrl-minimalbutton accessible titlebar-control')]
+//*[@id="wrapperdiv"]/div/header//*[contains(@class, 'close-dropdown')]
+//*[contains(@class, 'close-dropdown')]/div/header
+//*[@id="wrapperdiv"]/div/header/div/div[2]
+//*[@id="wrapperdiv"]/div/header/div/div[3]/ul/li[1]
+simsIconTextDropdown wordControl sims-control sims-IconTextDropdown item index-3 Control_Index_5 SelectedStyleItem
+Track Changes
+
+//*[contains(@class, 'titlebar-section-2')]//*[contains(@class, 'office-control ctrl-minimalbutton accessible titlebar-control')]//*[contains(@class, 'office-hover-default button-binder minimal-button')]
+//*[contains(@class, 'titlebar-section-2')]//*[contains(@class, 'ctrl-minimalbutton accessible')]//*[contains(@class, 'button-binder')]
+
+
+
+//*[contains(@id, "RecolorPresets_dropDownSelector")]//ancestor::*[contains(@class,'image-selector-ul')]//ancestor::*[contains(@class,'image-button')]
+
+Orange, Accent color 6 Light
+image-selector-ul
+
+//*[contains(@class,'image-selector-ul')]//*[contains(@title, "Accent color 6")]
+PICTURE
+Picture//*[@id="wrapperdiv"]
+
+button-image absolute-pos
+//*[contains(@id,'PICTURE')]//*[contains(@class,'bookDiv')]//*[contains(@class,'medium-book-tb')]
+sims-control sims-TextBox medium-book-tb absl
+class="sims-control sims-TextBox title-tb absl"
+
+picture color paneAccordian-title-text closed-pane-accordian-image
+
+//*[contains(@class,'dropdown-item-accesskeyChar') and text()="B"]//parent::*[contains(@class,'dropdown-item-text')]//parent::*[contains(@class,'Sim5-ContextMenuItem')]//*[contains(@class,'dropdown-item-accesskeyChar') and text()="O"]//parent::*[contains(@class,'dropdown-item-text')]
+
+dropdown-item office-hover-default Sim5-ContextMenuItem accessible item-type-iconandtext
+dropdown-item-text
+Picture Border
+combo-value-part control-label
+
+//*[contains(@class,'dropdown-item-accesskeyChar') and text()="L"]//ancestor::*[contains(@class,' Sim5-ContextMenuItem')]
+dropdown-item office-hover-default Sim5-ContextMenuItem accessible item-type-iconandtext
+
+dropdown-item-accesskeyChar//*[contains(@class,'dropdown-item-accesskeyChar') and text()="SMP (Custom)"]menuItemText unselectable
+
+
+//*[contains(@class,'left-container-item') and contains(text,'Customize Ribbon')]
+left-container-item unselectable Control-Index-7
+left-container-item unselectable Control-Index-7
+
+contains(text,'Customize Ribbon')
+
+checkBox checkBoxChecked sims-control sims-CheckBox collapseCheckBox
+//*[contains(@class,'left-container-item')]//*[contains(@class,'Control-Index-7')]
+
+//*[text()="My Commands (Custom)"]//ancestor::*[contains(@class,'collapsible-LICon')]//*[contains(@class,'checkBox')]
+//*[contains(@class,'MsoNormal')]
+MyCommandsCustom
+
+
+left-container-item unselectable Control-Index-7
+//*[text()="I have cleared my workspace, packed and labeled all boxes,
+furniture, and equipment, and give permission for all items to be moved to the
+new location."]
+//*[contains(@class,'ribbon-SK') and contains(text(),'C')]
+I have cleared my workspace, packed and labeled all boxes,
+furniture, and equipment, and give permission for all items to be moved to the
+?      Date
+new location.
+
+
+tab-header tab-header-layout accessible tab-header-selected
+/*[contains(@class,'icon-wrapper')]
+combo-value-part control-label
+//*[@id="lastPara"]
+
+Welcome· to· the· State· University· Department· of· History!· This· department· is· a
+//*[contains(text(),'Welcome')]
+
+//*[@id="curPos"]
+//*[contains(@class,'ribbon-SK') and text()="C"]//ancestor::*[contains(@class,'item-type-imageitem')]//*[contains(@class,'simsDDArrow')]
+
+
+dropdown-item office-hover-default Sim5-ContextMenuItem accessible item-type-imageitem
+icon-wrapper office-hover-default
+
+We want you to know how much we
+appreciate your membership in The Greenways. We don’t your support for
+granted—in fact, we are proud of the fact that we are fully supported by local
+citizens. We can act quickly and take opportunities that governmental agencies often
+cannot. Even though much of our support comes from private interest, we are
+pleased to count the City of Hope and other regional agencies in our network at
+this time. We are growing!
+
+There are
+several ways you can help, aside from monetary support.
+
+
+//*[contains(text(),'item-type-imageitem')]
+//*[@id="pageBinderWrapper"]/div/div/div[2]/div[3]/div/div[2]/p[17]/span/text()
+
+
+
+//*[contains(@class,'btntextSpan') and [contains(text(),'Options...')]
+
+//*[contains(@class,'simsDDTitleText') and text()="Recommended"]//ancestor::*[contains(@class,'titleBarEnabled')]//*[contains(@class,'simsDDArrow')]
+
+
+simsDDTitle titleBarEnabled unselectable
+
+
+close-dropdown-pane on
+
+
+
+
+//*[contains(text(),'Close')]
+IMS undefinedCM context-menu-list context-menu-root
+
+xpath;//*[contains(@class, "StyleInspectorPane")]//*[contains(@class, "close-options")]//*[contains(@class, "close-dropdown-pane")]//*[contains(@id,'dropdownClose')]
+xpath;//*[contains(@class, "RevealFormatting")]//*[contains(@class, "close-options")]//*[contains(@class, "close-dropdown-pane")]//*[contains(@id,'dropdownClose')]
+xpath;//*[contains(@class, "StylePane")]//*[contains(@class, "close-options")]//*[contains(@class, "close-dropdown-pane")]//*[contains(@id,'dropdownClose')]
+
+//*[contains(@class,'hideChildBr') and text()="Mail"]//ancestor::*[contains(@class,'tab-header')]
+
+
+tab-header tab-header-contextual tab-header-drawingtoolsformat accessible
+//*[@id="pageBinderWrapper"]/div[1]/div/div[2]/div[3]/div/div/div[1]/p[6]
+
+LS19.WD.00.WD.93.L1
+
+//*[contains(@class,'CreateNewThemeDialog')]//*[contains(text(),'Proposal for')]
+	®		Registered					Alt+Ctrl+R
+	
+	
+	
+Tournament Rules
+heading-text heading-text-selected
+
+Dark Red, Accent 1, Darker 50%
+
+Dark2_ColorGrid_DarkRed_Accent1_Darker50
+//*[contains(@class,'CompName') and contains(text(),'Create New Theme Fonts')]//ancestor::*[contains(@class,'InnerDlgFrame')]//*[contains(@class,'btntextSpan') and contains(text(),'ave')]
+btntextSpan
+
+
+compDiv CreateNewThemeDialog create-new-theme
+//*[contains(@class,'header-font-dd')]//*[contains(@class,'itemTextPre') and contains(text(),'Calisto MT')]//ancestor::*[contains(@class,'dottedLBItemBorder')]
+
+
+simsLBItem dottedLBItemBorder simsLBItemSelected
+compDiv CreateNewThemeDialog create-new-theme
+
+simsLBItem dottedLBItemBorder
+
+simsDropdown sims-control sims-DropDown header-font-dd absl
+simsDropdown sims-control sims-DropDown header-font-dd absl
+
+//*[@id="cursor"]
+class="tab-header tab-header-contextual tab-header-developer accessible"
+
+//*[contains(@class,'font-size')]
+
+
+//*[@id="pageBinderWrapper"]/div/div/div[2]/div[3]/div/p[4]/span/span/text()[2]
+//*[@id="pageBinderWrapper"]/div/div/div[2]/div[3]/div/p[4]/span/span
+
+
+//*[contains(@class,'context-menu-accesskey') and text()='l']//ancestor::*[contains(@class,'context-menu-item')]
+
+
+ribbon-SK office-control ctrl-button sybchronousscrolling accessible
+
+//*[contains(@class,'context-menu-accesskey') and text()='l']//ancestor::*[contains(@class,'context-menu-item')]
+
+context-menu-item select hover
+
+CM_0_jsonOpenWord
+
+//*[@id="CM_0_jsonOpenWord"]
+//*[@id="CM_1_jsonOpenWord"]/li[1]
+
+
+//*[contains(@class,'office-control') and text()='26']
+//*[@id="para1a"]
+//*[@id="para1a"]/b
+
+office-control ctrl-comboboxtext font-size accessible
+//*[contains(@class,'wordMiniToolBar')]//*[contains(@class,'font-size')]//*[contains(@class,'dropdown-button')]
+//*[contains(@id, 'TableToolBar')]//*[contains(@class, "font-size")]//*[contains(@class, "dropdown-button")]
+
+dropdown-button office-hover-default
+
+wordMiniToolBar textToolBar word ribbon ribbonv16 ribbonv19 mt-kb-util show
+ribbon-section two-row-section
+
+
+//*[contains(@id,'para1a') or contains(@id,'para2a')]
+//*[@id="para1a"]
+
+
+//*[@id="para2a"]
+
+
+//*[contains(@id,'para1a')]
+
+//*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3][self::contains(@id,'para1a') or self::contains(@id,'para2a')]//*[contains(@class,'dropdown-button')]
+
+
+
+Find
+//*[contains(@class,'dropdown-item-text') and text()='o To...']//ancestor::*[contains(@class,'office-control')]//*[contains(@class,'dropdown-button')]
+
+
+dropdown-button office-hover-default
+
+office-control ctrl-splitbuttonnewhorizontal accessible
+
+
+combo-value-part control-label
+
+
+dvanced Find...
+
+
+//*[contains(@class,'replace-tab')]//*[contains(@class,'replace-dropdown')]
+check-box check-box-checked
+
+office-control ctrl-checkbox office-hover-default navigation-checkbox accessible
+ind Next
+//*[contains(@class,'find-tab')]//*[contains(@class,'CompName') and text()='ribbon-tab-content']
+
+ribbon-tab-content
+
+replace-tab replace-tab1
+
+
+CloseImage
+
+SIMS WIN10FrameCM context-menu-list context-menu-root
+
+
+//*[contains(@class,'CompName') and text()='Microsoft Word']//ancestor::*[contains(@class,'WIN10FrameCM')]//*[contains(@class,'Close')]
+
+//*[contains(@class,'CompName') and text()='Find and Replace']//ancestor::*[contains(@class,'InnerDlgFrame')]//*[contains(@class,'CloseImage')]
+//*[contains(@class,'undefinedCM')]//*[contains(text(),'Close')]
+Close      Alt+F4
+
+
+//*[contains(@class,'find-tab')]//*[contains(@class,'replace-dropdown')]
+simsDropdown sims-control sims-DropDown replace-dropdown
+
+
+simsDropdown sims-control sims-DropDown replace-dropdown
+
+SIMS undefinedCM context-menu-list context-menu-root
+
+//*[contains(@class,'combo-value-part') and text()='Page Color']
+//*[contains(@id,'insert')]//*[contains(@class,'control-label') and text()='Link']//ancestor::*[contains(@class,'combobox-wrapper')]
+ribbon-tab-Design//*[contains(@class,'combo-value-part') and text()='Page Color']combo-value-part control-label
+
+
+submenu-item accessible filemenu-manipulator submenu-item-sel
+
+//*[contains(@class,'revision-pane')]//*[contains(@class,'close-options')]//*[contains(@class,'close-dropdown')]
+compDiv RevisionPane revision-pane Word SIMSGenericContextUsed
+//*[@id="4"]/div/div[1]/div[2]
+
+tab-header tab-header-design accessible
+
+
+//*[contains(@id,'mytab')]//*[text()='Libraries and Archives']
+combo-value-part control-label
+
+//*[@id="dropdownClose"]icon-wrapper office-arrowclass="office-control ctrl-splitbuttonnewhorizontal reviewingpane accessible"
+
+//*[contains(@id,'mytab')]//*[contains(@class,'IonBoardroom_themes')]
+
+
+office-control ctrl-big_icon_text has-list IonBoardroom_themes accessible
+
+//*[@id="ribbon-tab-container-design"]
+
+//*[title="Celestial"]//*[contains(@class,'office-control')]
+//*[@id="ribbon-tab-myTab"]/li/span/span[1]/span/span[6]/div[1]/div[2]/div/div[1]/div[2]/div[13]
+
+title="Celestial"
+
+//*[contains(@id,'mytab')]//*[title="Celestial"]
+//*[text()='Libraries and Archives']
+//*[style='text-align:justify']
+
+
+//*[@style='text-align:justify']//*[text()='Libraries and Archives']
+ and text()='Libraries and Archives'
+ 
+ 
+ 
+ //*[contains(@class,' dropdown-button')]//*[text()='Study Abroad']
+ 
+ MsoListParagraphCxSpLast
+ 
+ 
+ 
+//*[contains(@class,'combo-value-part')and text()="Link"]//ancestor::*[contains(@class,'hovered-frame')]//*[contains(@class,'combo-value-wrapper')]
+ //*[contains(@class,'office-control')]
+ 
+ 
+ //*[@id="sel"]
+ dropdown-button office-hover-default
+ combo-value-part control-label
+ //*[@id="ribbon-tab-myTab"]/li/span/span[1]/span/span[4]/div[1]/div[1]/divcombo-value-wrapper office-hover-default
+ combobox-wrapper hovered-frame
+ 
+ 
+ //*[@id="ribbon-tab-myTab"]/li/span/span[1]/span/span[4]/div[1]/div[1]/div/div[1]
+ office-control ctrl-splitbuttonnewvertical big-control accessible
+ 
+ //*[contains(@class,'dropdown-item-text') and text()='nsert Link...']//ancestor::*[contains(@class,'hovered-frame')]//*[contains(@class,'combo-value-wrapper')]
+ //*[contains(@class,'office-control')]
+ combo-value-wrapper office-hover-default
+ combobox-wrapper hovered-frame active-toggle
+ //*[contains(@class,'docarea_bullets') and text()='nsert Link...']
+  //*[contains(@class,'docarea_bullets')]//*[contains(@class,'dropdown-button')]
+
+class="combo-value-wrapper office-hover-default"
+dropdown-items-wrapper items-imagearea
+ 
+ 
+ office-control ctrl-splitbuttonnewhorizontal minimal-control bullets docarea_bullets
+ dropdown-button office-hover-default
+ 
+ //*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[2]/span/span[6]/div/div[2]/div/div[2]/div[2]
+ 
+ //*[contains(@class,'docarea_bullets')]//*[contains(@class,'dropdown-open')]//*[contains(@class,'items-imagearea')]
+ dropdown-items-wrapper items-imagearea
+ combobox-dropdown dropdown-open
+ 
+ //*[contains(@class,'items-imagearea')]
+ //*[contains(@class, "leftSpinCtrl")]//*[contains(@width,"107")]
+ 
+ 
+xpath;//*[contains(@class, "ribbon-section")]//*[contains(@class, "MsoNormalTable")]//*[contains(@class, "item-type-imageitem") and not(contains(@title,'Color'))]//*[contains(@class, "icon-wrapper")]
+Color 3
+dropdown-item office-hover-default Sim5-ContextMenuItem item-type-imageitem
+icon-wrapper office-hover-default
+ 
+ 
+ width="107"
+ 
+ //*[@name="Text2"]
+ Total
+  //*[contains(text(),'Total')]
+  
+  
+  //*[contains(@id,"table"]/tbody/tr[5]
+  
+  //*[contains(text(),'Total')]//ancestor::*[contains(@class,"MsoNormalTable")]/tbody/tr[5]
+  
+  
+//*[contains(@class,"MsoListParagraphCxSpMiddle")]//[contains(text(),'All')]
+  combo-value-part control-label
+  ribbon-tab-content
+  //*[@id="ribbon-tab-Insert"]
+  
+  //*[@id="cursorpos1"]
+  //*[@id="pageBinderWrapper"]/div/div/div[2]/div[3]/div/p[9]/span[2]
+  //*[@id="pageBinderWrapper"]//[contains(text(),'Family')]
+  
+  
+  //*[@id="t19selStart"]/text()
+  auto-comp-words-item unselectable
+  
+  //*[@id="home-tab-paragraph-section"]/span/span[1]/span/span[1]/span[1]/span[1]/div[1]/div[2]/div/div[2]/div/div/span
+  //*[contains(@class,'auto-comp-words-item') and text()='12BLogo.jpg']
+  //*[@id="t19selStart"]/text()
+  //*[@id="t19selStart"]/text()
+  //*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/div/table/tbody/tr/td[1]/p[4]
+  
+  
+  menuItemText unselectable  Close
+  
+  
+  //*[contains(@class,'button-label') and text()='Drop-Down List Content Control']//ancestor::*[contains(@class,"Sim5-ContextMenuItem")]//*[contains(@class, "icon-wrapper")]
+  
+  
+  combo-value-part control-label
+  
+  title="Task Pane Options"
+  tooltip-header
+  dropdown-item office-hover-default Sim5-ContextMenuItem item-type-imageitem
+  ]
+  icon-wrapper office-hover-default
+  
+  //*[contains(@class,'context-menu-root')]/li[2]
+  SIMS undefinedCM context-menu-list context-menu-root
+  
+  
+  //*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/p[4]
+  
+  
+  //*[contains(@class,'wordMiniToolBar')]//*[contains(@class,'boldbutton')]
+  //*[@title="Table Caption"]
+  
+  //*[@id="apply"]
+  
+  
+  //*[@id="DefaultToolBar"]/li/span/span/span/span[1]/span[2]/span/span[1]
+  
+  office-control ctrl-minimaltogglebutton boldbutton
+  wordMiniToolBar textToolBar word ribbon ribbonv16 ribbonv19 mt-kb-util wordMiniToolBar-click show
+  
+  //*[@id="DefaultToolBar"]/li/span/span/span/span[3]/span/span/div[1]/div[2]/div/div/div[2] 
+  //*[@id="DefaultToolBar"]/li/span/span/span/span[3]/span/span/div[1]/div[2]/div/div/div[2]
+  
+  office-control ctrl-imagedropdown styles docarea_styles
+  //*[contains(@class,'paragraph_styles')]//*[@title="Table Caption"]
+  
+  
+  office-control ctrl-gallery gallery-control paragraph-styles-gallery paragraph_styles accessible
+  
+  
+  Create a 
+  
+  
+  
+  //*[@id="DefaultToolBar"]/li/span/span/span/span[3]/span/span/div[1]/div[2]/div/div[18]/div[2]
+  
+  
+  //*[@id="DefaultToolBar"]//*[contains(@title='Close' and @class='close']
+  
+  Return to Top
+  
+  //*[@id="sel"]
+  //*[@id="cur1"]
+  //*[@id="ribbon-tab-myTab"]/li/span/span[1]/span/span[2]/span/span
+  
+  
+  //*[@id="InsertHyperlink_PlaceTreeViewList"]/li[1]/div[3]
+//*[contains(@class,'shape-style')]
+
+
+//*[@id="CM_DefaultContextMenu"]/li[16]/span[2]
+
+//*[@title ="2.5 Point"]/li[20]
+office-control ctrl-imagedropdown shape-style mini-toolbar-shape-style
+
+2.5 Point
+
+
+//*[@id="arrow"]
+
+//*[@id="childBlock"]/div/div[1]/ul/li[6]
+//*[@class='StylePane']//*[@class='close-dropdown']
+compDiv StylePane//*[@class='close-dropdown']
+//*[@id="97"]
+
+//*[@class='close-dropdown']
+
+
+
+//*[contains(@class,'button-label') and text()='Remove Split']
+//*[@id="select"]/span
+//*[contains(@class,'StylePane')]//*[@id="dropdownClose"]
+
+//*[@id="ribbon-tab-Layout"]/li[1]/span/span[1]/span/span[1]/div[1]/div[2]/div/div[1]/div[4]/div
+//*[@id="ribbon-tab-Layout"]/li[1]/span/span[1]/span/span[1]/div[1]/div[2]/div/div[1]/div[4]/div/div/span
+
+
+tab-header tab-header-view accessible
+//*[contains(@class,'tab-header-view']
+
+
+//*[@id="ribbon-tab-Layout"]/li[1]/span/span[1]/span/span[1]/div[1]/div[2]/div/div[1]/div[3]/div/div/span
+
+//*[contains(@class,'button-label') and text()='Drop-Down List Content Control']//ancestor::*[contains(@class,"office-hover-default")]
+icon-wrapper button-icon
+office-hover-default button-binder minimal-button
+//*[contains(@class,'SIMS-CCP')]//*[contains(@class,'ribbon-SK') and text()='C']
+ribbon-tab-container
+
+
+//*[contains(@class,'btntextSpan') and text()='Move U']
+
+//*[@id="pageBinderWrapper"]/div/div/div[2]/div[3]/doc/div/p[10]/span[2]/span
+
+
+Ribbon_OutlineTools_Demote
+//*[@id="outlineContainer"]/div[1]/p[3]/span[2]
+Doc_Para_A1
+
+
+//*[contains(@class,"wordMiniToolBar")]//*[contains(@class,'tab-header') and text()='My Commands']//ancestor::*[contains(@class,"ctrl-minimalbutton")]
+combo-value-part control-label
+office-control ctrl-button big-control accessible
+control-group-vertical
+wordMiniToolBar textToolBar word ribbon ribbonv16 ribbonv19 mt-kb-util show
+office-control ctrl-minimalbutton
+//*[contains(@class,'collapsible-LICon')]//ancestor::*[contains(@class,"section-launcher")]
+tab-header tab-header-contextual tab-header-mytab accessible
+
+section-launcher office-hover-default accessible
+checkBox checkBoxChecked sims-control sims-CheckBox collapseCheckBox
+checkBox checkBoxChecked sims-control sims-CheckBox collapseCheckBox
+
+//*[@id="CustomizeRibbonTree"]/li[2]/div[2]/label
+
+Dialog_NewTab
+
+
+//*[contains(@class,'Control-Index-7')]//*[text()='Home']
+ReviewTab_Tracking_ChangeTrackingOptions
+//*[@id="ribbon-tab-Review"]/li[6]/span/span[2]/span[2]
+
+left-container-item-block
+left-container-item unselectable Control-Index-7
+
+
+//*[contains(@class,'left-container-item-block')]//*[contains(@class,'Control-Index-7')]
+//*[contains(@class,'tab-header') and text()='My Commands']
+WordOptDB_MainTabs_SMP(Custom)
+
+
+
+//*[@id="ribbon-tab-Home"]//*[contains(@class,'control-label') and text()='Select']//ancestor::*[contains(@class,"section-launcher")]
+//*[@id="ribbon-tab-container-layout"]
+Segoe UI Semilight
+Segoe Print
+Laurales 9B
+combo-value-part control-label
+//*[@id="ribbon-tab-container-tabletoolslayout"]//*[contains(@class,'restrict-editing') and text()=' Table']
+
+
+//*[@id="table2_r5c1"]
+HeadingFont_SegoePrint
+
+//*[@id="pageBinderWrapper"]/div/div[1]/div[2]/div[3]/p[15]
+//*[@id="curso"]
+//*[@id="curso"]/text()
+//*[@id="ribbon-tab-References"]/li[5]/span/span[1]/span/span[2]/span[1]
+
+
+
+office-control ctrl-togglebutton accessible
+
+
+//*[@id="ribbon-tab-References"]//*[contains(@class,"tooltip-header") and text()="Sum (Alt+=)"]//ancestor::*[contains(@class,"ctrl-togglebutton")]
+
+
+
+exportListText unselectable
+change-filetype-item absolute-pos word03Document accessible filemenu-manipulator selected-file-type hovered
+
+tab-header tab-header-contextual tab-header-developer accessible
+//*[contains(@class,'big-control restrict-editing')]
+office-control ctrl-button big-control restrict-editing accessible
+
+
+
+rangeSelectorDiv sims-control sims-RangeSelector absolute leftRangeSelector top41 arg2controls RSFocus
+//*[contains(@class,"tooltip-header")]//*[contains(@class,"rangeSelectorTextbox")]
+
+
+
+rangeSelectorTextbox
+rangeSelectorDiv sims-control sims-RangeSelector absolute leftRangeSelector top41 arg2controls
+//*[contains(@class,"top41")]//*[contains(@class,"rangeSelectorTextbox")]
+
+
+rangeSelectorButton displayMode
+//*[contains(@class,"dropdown-button")]//*[@id="selectorButton"]
+
+
+range-selector-collapsed-mode RSFocus
+
+
+//*[@id="ribbon-tab-Home"]/li[7]/span/span[1]/span/span[1]/span[1]/div[1]/div[1]/span
+combobox-wrapper hovered-frame
+
+
+
+//*[contains(@class,"dropdown-item-text") and text()="More "]//ancestor::*[contains(@class,"item-type-iconandtext")]//*[contains(@class,"dropdown-button")]
+
+dropdown-item office-hover-default Sim5-ContextMenuItem accessible item-type-iconandtext
+dropdown-button office-hover-default
+dropdown-item office-hover-default Sim5-ContextMenuItem accessible item-type-iconandtext
+
+
+//*[contains(@class,"control-label") and text()="AutoSum"]//ancestor::*[contains(@class,"ctrl-splitbuttonnewhorizontal")]//*[contains(@class,"dropdown-button")]
+
+office-control ctrl-splitbuttonnewhorizontal accessible
+//*[@id="Excel-InsertFunctionDialog"]/div[2]/div[1]/ul/li[1]
+
+
+combo-value-part control-label
+
+
+itemTextPre
+
+//*[contains(@class,"tooltip-header") and text()="Sum (Alt+=)"]//ancestor::*[contains(@class,"ctrl-splitbuttonnewhorizontal")]//*[contains(@class,"dropdown-button office-hover-default")]
+
+dropdown-button office-hover-default
+office-control ctrl-splitbuttonnewhorizontal accessible
+simsLBItem simsLBItemSelected highlightOnFocus
+office-control ctrl-button big-control accessible
+
+
+office-control ctrl-button big-control accessible
+
+combo-value-part control-label
+//*[@id="ribbon-tab-Formulas"]/li[1]/span/span[1]/span/span[1]
+
+
+//*[contains(@class,"itemTextPre") and text()="Anova: Single Factor"]
+
+
+EXP16.WD.01.02.06.T1_Page1_Footer
+
+
+xpath;//*[contains(text(),"I have prepared")]
+DocArea__paraStartsWith{I have prepared}
+
+
+EXP16.WD.01.02.06.T1_Item3_Page_Begining
+
+xpath;//*[contains(@class, "StylePane")]//*[contains(@class, "style")]//*[contains(@class, "clickableArea")]//*[contains(text(), "Heading 3")]//ancestor::*[contains(@class,"controlWrapper")]
